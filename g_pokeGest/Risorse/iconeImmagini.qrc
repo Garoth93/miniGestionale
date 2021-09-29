@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pikaScocciato.png</file>
+        <file>pikaFelice.png</file>
+        <file>aggiungi.png</file>
+        <file>conferma.png</file>
+        <file>elimina.png</file>
+        <file>esci.png</file>
+        <file>left.png</file>
+        <file>lock.png</file>
+        <file>opzioni.png</file>
+        <file>right.png</file>
+        <file>cerca.png</file>
+        <file>up.png</file>
+        <file>save.png</file>
+    </qresource>
+</RCC>

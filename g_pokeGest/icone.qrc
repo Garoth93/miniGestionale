@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>snorlax.ico</file>
+    </qresource>
+</RCC>
